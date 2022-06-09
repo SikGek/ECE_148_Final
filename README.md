@@ -18,4 +18,5 @@ Just run the code "ece_148_final_team3.py --east frozen_east_text_detection.pb" 
 ## References
 
 https://github.com/amirhosseinh77/JetsonYolo
+
 https://github.com/ZER-0-NE/EAST-Detector-for-text-detection-using-OpenCV
